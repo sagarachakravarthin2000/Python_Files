@@ -1,0 +1,152 @@
+##def Student_Passed(*names):
+##
+##    print(names)
+##
+##Student_Passed("sagara")
+##Student_Passed('sachin','sagar')
+
+##def Student_Passed(**names):
+##
+##    print(names)
+##
+##Student_Passed(name = "sagara")
+##Student_Passed(name = 'sachin',age = 33)
+
+
+
+
+
+##def student_mark(eng,math,student_name):
+##    total = eng + math
+##    return
+##    print("welcome")
+##output = student_mark(40,50,"dhoni")
+##print(output)
+
+
+##def student_mark(eng,math,student_name):
+##    total = eng + math
+##    return total
+##print('welcome_to _this_world')
+##output = student_mark(40,50,'dhoni')
+##print(output)
+
+##def student_mark(eng,math,student_name):
+##    total = eng + math
+##    return total,student_name
+##print('welcome_to_this_world')
+##output,output1 = student_mark(40,50,'dhoni')
+##print(output)
+##print(output1)
+
+##def student_mark(eng,math,student_name):
+##    total = eng + math
+##    return total,student_name
+##print('welcome_to_this_world')
+##output = student_mark(40,50,'dhoni')
+##print(output)
+
+##var = 100
+##def fun():
+##    var = 10
+##    print(var)
+##
+##print(var)
+##fun()
+##print(var)
+
+##var = 99
+##def fun():
+##    global var 
+##    var = 98
+##    print(var)
+##
+##print(var)
+##fun()
+##print(var)
+
+##counter = 0
+##def fun():
+##    global counter
+##    print("hello",counter)
+##    counter = counter + 1
+##    if counter == 101:
+##        returns
+##    fun()
+##fun()
+
+counter = -0
+def fun():
+    global counter
+    print("hello",counter)
+    counter = counter + 1
+    while counter < 10:
+        
+        fun()
+fun()
+
+counter = -9
+def fun():
+    global counter
+    print("hello",counter)
+    counter = counter + 1
+    if counter == 11:
+        returns
+    fun()
+fun()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
